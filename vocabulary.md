@@ -59,3 +59,21 @@ including all the services or items normally expected or required.
 including everyone
 
 Example: ```My rent is $700 a month inclusive (of bills).```
+
+## Leverage
+*noun (Action)*
+The action or advantage of using a lever - ஒரு நெம்புகோலின் உதவியுடன் அல்லது அனுகூலத்துடன்
+
+Example: ```Using ropes and wooden poles for leverage, they haul sacks of cement up the track```
+
+*noun (Power)*
+Power to influence people and get the results you want - செல்வாக்கு மற்றும் அதித அதிகாரம் அல்லது சக்தி
+
+Example ```power to influence people and get the results you want:```
+
+*Verb (Action)*
+To use something that you already have in order to achieve something new or better
+
+Example ```The company wants to leverage its brands more effectively.```
+
+
