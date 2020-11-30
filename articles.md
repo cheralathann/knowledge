@@ -14,3 +14,6 @@
 - [Mozilla Accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility)
 - [Interaction Accessibility](https://www.interaction-design.org/literature/topics/accessibility)
 - [The Futur Accessibility](https://thefutur.com/blog/is-your-website-accessible-14-steps-towards-inclusion)
+
+
+- [Closures](https://medium.com/dailyjs/i-never-understood-javascript-closures-9663703368e8)
