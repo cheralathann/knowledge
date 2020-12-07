@@ -76,4 +76,50 @@ To use something that you already have in order to achieve something new or bett
 
 Example ```The company wants to leverage its brands more effectively.```
 
+## Fallacy
+*noun*
+A false belief - ஒரு தவறான நம்பிக்கை
 
+Example ```It's a fallacy to assume that burglars can't climb a wall without a ladder```
+
+## intervene - தலையீடு
+*Verb*
+(GET INVOLVED) - to intentionally become involved in a difficult situation in order to improve it or prevent it from getting worse
+
+Example ```My wife intervened between my children to stop a fight```
+
+(COME BETWEEN) - to occur, fall, or come between points of time or events
+
+Example ```only one month intervened between their marriage and engagement```
+
+## contrary - மாறாக
+*adjective (OPPOSITE)*
+Different from something
+
+Example ```Contrary to all our expectations, he found a well-paid job and a nice girlfriend```
+
+*adjective (disapproving)*
+Behaving badly
+
+Example ```He/She was such a contrary child -- it is impossible to please him/her.```
+
+## persuade - ஒரு தகுந்த காரணம் சொல்லி சம்மதிக்க அல்லது நம்ப வைப்பது
+*Verb*
+
+To make somebody or something by giving them good reason for doing it (or) to cause people to do or believe something, esp. by explaining why they should
+
+Example ```I am sure he'll come with a bit of persuading.```
+
+
+## astute - விவேகமான, புத்தி நுட்பமுள்ள
+*adjective*
+Very clever and quick at seeing what to do in a particular situation, especially how to ger an advantage.
+
+Example ```Lebron astute pass set up Anthony davis for his 100th three point```
+
+## fickle - திடீரென்று மற்றும் ஒரு நல்ல காரணமின்றி கருத்தை அல்லது உணர்வுகளை மாற்ற வாய்ப்புள்ளது அல்லது கொள்வது
+*adjective*
+Change often and suddenly. Likely to change your opinion or your feelings suddenly and without a good reason
+
+Example ```Chirapunji weather is notoriously fickle```
+Example ```A frickle friend```
