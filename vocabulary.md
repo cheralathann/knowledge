@@ -103,7 +103,7 @@ Behaving badly
 
 Example ```He/She was such a contrary child -- it is impossible to please him/her.```
 
-## persuade - ஒரு தகுந்த காரணம் சொல்லி சம்மதிக்க அல்லது நம்ப வைப்பது
+## Persuade - ஒரு தகுந்த காரணம் சொல்லி சம்மதிக்க அல்லது நம்ப வைப்பது
 *Verb*
 
 To make somebody or something by giving them good reason for doing it (or) to cause people to do or believe something, esp. by explaining why they should
@@ -111,15 +111,58 @@ To make somebody or something by giving them good reason for doing it (or) to ca
 Example ```I am sure he'll come with a bit of persuading.```
 
 
-## astute - விவேகமான, புத்தி நுட்பமுள்ள
+## Astute - விவேகமான, புத்தி நுட்பமுள்ள
 *adjective*
 Very clever and quick at seeing what to do in a particular situation, especially how to ger an advantage.
 
 Example ```Lebron astute pass set up Anthony davis for his 100th three point```
 
-## fickle - திடீரென்று மற்றும் ஒரு நல்ல காரணமின்றி கருத்தை அல்லது உணர்வுகளை மாற்ற வாய்ப்புள்ளது அல்லது கொள்வது
+## Fickle - திடீரென்று மற்றும் ஒரு நல்ல காரணமின்றி கருத்தை அல்லது உணர்வுகளை மாற்ற வாய்ப்புள்ளது அல்லது கொள்வது
 *adjective*
 Change often and suddenly. Likely to change your opinion or your feelings suddenly and without a good reason
 
 Example ```Chirapunji weather is notoriously fickle```
 Example ```A frickle friend```
+
+## Propensity - மனப்பாங்கு
+*adjective*
+A tendency to particulay kind of behanvior,especially a bad way or inclined way
+
+Example ```Dogs have a propensity to bark, and many people have a propensity for getting annoyed by it.```
+
+## Myriad - எண்ணற்ற
+*noun*
+An extremely large number of something
+
+Example ```Designs are available in myriad of colors.```
+
+## Infer - அனுமானி , ஊகி
+*verb*
+To form or reach an opinion or guess that something is true on the basis of information that you have or available
+
+Example ```We see smoke and infer fire.```
+
+## Insignia - விருதுச்சின்னங்கள் , சிறப்புரிமைச் சின்னங்கள், முத்திரை
+*noun*
+an object or mark that shows that a person belongs to a particular organization or group, or has a particular rank:
+
+Example ```His uniform bore insignia of a captain```
+
+## Mediocre - இடைப்பட்ட தரமான , நல்லதுங் கெட்டதும் அல்லாத , உயர்வற்ற
+*adjective*
+of moderate or low quality, value, ability, or performance
+
+Example ```I thought the play was only mediocre```
+
+## Coherant - நன்கு ஒழுங்கமைக்கப்பட்ட; புரிந்து கொள்ள எளிதானது மற்றும் தெளிவானது, இசைந்திணைகிற
+*adjective*
+Logical and well organized; easy to understand and clear
+
+Example ```He is coherent in his speech```
+
+
+
+
+
+
+
