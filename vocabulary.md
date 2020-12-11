@@ -160,9 +160,34 @@ Logical and well organized; easy to understand and clear
 
 Example ```He is coherent in his speech```
 
+## Recidivist - திருந்தாத் குற்றவாளி, தண்டித்தும் திருந்தாமல் மறுபடியும் குற்றம் செய்பவர்
+*noun*
+A person who continues to commit crimes and seems unable to stop even after being punished
 
+Example ```Law enforcement and security experts say the case is an example of the recidivist nature of criminals and the importance of deporting illegal immigrants who are arrested or convicted of crimes.```
 
+## Convict - தீர்ப்புக் குற்றவாளி
+*Verb*
+To decide officially in a law court that someone is guilty of a crime
 
+Example ```She was convicted of murdering her drunken and allegedly violent husband```
 
+## Juvenile - சிறார்
+*adjective*
+Relating to a young person who is not yet old enough to be considered an adult
+Silly and more typical of a child than an adult or Psychologically immatured or undeveloper young
+Childish
 
+Example ```She criticized his juvenile behavior at the party```
 
+## Decisive - தீர்க்கமான, தீர்மானிக்கும் ஆற்றலுள்ள, உறுதியான
+*adjective*
+Able to make decisions quickly and confidently, or showing this quality
+
+Example ```A decisive reply```
+
+## Unassailable - தோற்கடிக்க முடியாத, தாக்கமுடியாத, மறுத்துக்கூறமுடியாத
+*adjective*
+That cannot be destroyed, defeated or questioned.
+
+Example ```Their ten point lead puts the team in an almost unassailable poistion```
